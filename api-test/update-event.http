@@ -1,9 +1,9 @@
-PUT http://localhost:8080/events/1
+PUT http://localhost:8080/events/3
 Content-Type: application/json
 
 {
-    "name": "Updated Event Name",
-    "description": "Updated description for the event.",
+    "name": "Updated Event Name3",
+    "description": "Updated description for the event3.",
     "location": "Updated Location",
     "dateTime": "2024-07-01T18:00:00Z"
 }
